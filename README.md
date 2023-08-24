@@ -1,2 +1,2 @@
-## Patterns
-[![Build status](https://ci.appveyor.com/api/projects/status/f3o1hto5cxq8fhjy/branch/main?svg=true)](https://ci.appveyor.com/project/ValeryGil/patterns/branch/main)
+## Allure
+[![Build status](https://ci.appveyor.com/api/projects/status/97tvad0ufr9d1lpo/branch/main?svg=true)](https://ci.appveyor.com/project/ValeryGil/allure/branch/main)
